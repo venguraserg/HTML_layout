@@ -1,0 +1,11 @@
+.main__table {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+
+.main__table th, tr, td {
+  border: 1px solid #000;
+  padding: 5px 5px;
+}
+
+
